@@ -70,6 +70,34 @@ namespace InternetBankingRESTfulService.BLL.Services
     {
         public bool check { get; set; }
         public string result { get; set; }
+
+
+        protected bool Equals(serviceresponse other)
+        {
+            return string.Equals(result, other.result);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (ReferenceEquals(null, obj))
+            {
+                return false;
+            }
+            if (ReferenceEquals(this, obj))
+            {
+                return true;
+            }
+            if (obj.GetType() != this.GetType())
+            {
+                return false;
+            }
+            return Equals((serviceresponse)obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return (result != null ? result.GetHashCode() : 0);
+        }
     }
 
 }
