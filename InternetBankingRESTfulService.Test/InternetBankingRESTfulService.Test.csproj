@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\InternetBankingRESTfulService.BLL\InternetBankingRESTfulService.BLL.csproj" />
-    <ProjectReference Include="..\InternetBankingRESTfulService\InternetBankingRESTfulService.csproj" />
+    <ProjectReference Include="..\InternetBankingRESTfulService\InternetBankingRESTfulService.API.csproj" />
   </ItemGroup>
 
 </Project>

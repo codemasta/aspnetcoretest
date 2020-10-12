@@ -1635,17 +1635,17 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "InternetBankingRESTfulService/1.0.0": {
+      "InternetBankingRESTfulService.API/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
           "InternetBankingRESTfulService.BLL": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/InternetBankingRESTfulService.dll": {}
+          "bin/placeholder/InternetBankingRESTfulService.API.dll": {}
         },
         "runtime": {
-          "bin/placeholder/InternetBankingRESTfulService.dll": {}
+          "bin/placeholder/InternetBankingRESTfulService.API.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -5732,10 +5732,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "InternetBankingRESTfulService/1.0.0": {
+    "InternetBankingRESTfulService.API/1.0.0": {
       "type": "project",
-      "path": "../InternetBankingRESTfulService/InternetBankingRESTfulService.csproj",
-      "msbuildProject": "../InternetBankingRESTfulService/InternetBankingRESTfulService.csproj"
+      "path": "../InternetBankingRESTfulService/InternetBankingRESTfulService.API.csproj",
+      "msbuildProject": "../InternetBankingRESTfulService/InternetBankingRESTfulService.API.csproj"
     },
     "InternetBankingRESTfulService.BLL/1.0.0": {
       "type": "project",
@@ -5745,7 +5745,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "InternetBankingRESTfulService >= 1.0.0",
+      "InternetBankingRESTfulService.API >= 1.0.0",
       "InternetBankingRESTfulService.BLL >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
@@ -5787,8 +5787,8 @@
             "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService.BLL\\InternetBankingRESTfulService.BLL.csproj": {
               "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService.BLL\\InternetBankingRESTfulService.BLL.csproj"
             },
-            "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj": {
-              "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj"
+            "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj"
             }
           }
         }

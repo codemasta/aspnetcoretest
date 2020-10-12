@@ -90,8 +90,8 @@
               "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService.BLL\\InternetBankingRESTfulService.BLL.csproj": {
                 "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService.BLL\\InternetBankingRESTfulService.BLL.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj"
+              "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj"
               }
             }
           }
@@ -144,12 +144,12 @@
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj",
-        "projectName": "InternetBankingRESTfulService",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj",
+        "projectName": "InternetBankingRESTfulService.API",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\InternetBankingRESTfulService.API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DELL\\source\\repos\\AirtelTest\\InternetBankingRESTfulService\\obj\\",
         "projectStyle": "PackageReference",
