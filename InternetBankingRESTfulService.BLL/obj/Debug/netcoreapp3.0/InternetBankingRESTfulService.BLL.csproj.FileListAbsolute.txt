@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\bin\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.deps.json
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\bin\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.dll
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\bin\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.pdb
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\obj\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\obj\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\obj\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\obj\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.dll
+C:\Users\DELL\source\repos\AirtelTest\InternetBankingRESTfulService.BLL\obj\Debug\netcoreapp3.0\InternetBankingRESTfulService.BLL.pdb
